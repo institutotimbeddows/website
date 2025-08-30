@@ -1,0 +1,164 @@
+{
+  "programs": [
+    {
+      "id": "instituto-cultural-escola",
+      "name": "Instituto Cultural/Escola",
+      "shortDescription": "Cursos gratuitos, simples e práticos para a comunidade.",
+      "status": "Planejamento",
+      "links": {
+        "simple": "/os/projects/instituto-cultural-escola/overview-simples.md",
+        "detailed": "/os/projects/instituto-cultural-escola/detalhes-execucao.md"
+      }
+    },
+    {
+      "id": "cursos-livres",
+      "name": "Cursos Livres",
+      "shortDescription": "Cursos curtos e práticos para atrair públicos diversos.",
+      "status": "Planejamento",
+      "links": {
+        "simple": "/os/projects/cursos-livres/overview-simples.md",
+        "detailed": "/os/projects/cursos-livres/detalhes-execucao.md"
+      }
+    },
+    {
+      "id": "eventos-comunitarios",
+      "name": "Eventos Comunitários",
+      "shortDescription": "Jazz n' Chess, Sofá na Rua, Sopão da Alegria e mais.",
+      "status": "Planejamento",
+      "links": {
+        "simple": "/os/projects/eventos-comunitarios/overview-simples.md",
+        "detailed": "/os/projects/eventos-comunitarios/detalhes-execucao.md"
+      }
+    },
+    {
+      "id": "cifra-livre",
+      "name": "Cifra Livre",
+      "shortDescription": "App de cifras melhor que Cifra Club e Ultimate Guitar, gratuito.",
+      "status": "MVP",
+      "links": {
+        "simple": "/os/projects/cifra-livre/overview-simples.md",
+        "detailed": "/os/projects/cifra-livre/detalhes-execucao.md"
+      }
+    },
+    {
+      "id": "afinador",
+      "name": "Afinador",
+      "shortDescription": "App grátis para afinar instrumentos, simples e preciso.",
+      "status": "MVP",
+      "links": {
+        "simple": "/os/projects/afinador-app/overview-simples.md",
+        "detailed": "/os/projects/afinador-app/detalhes-execucao.md"
+      }
+    },
+    {
+      "id": "fonemas-app",
+      "name": "Fonemas App",
+      "shortDescription": "Aprenda sons de PT/ES/EN sem app pesado (leve e rápido).",
+      "status": "Conceito",
+      "links": {
+        "simple": "/os/projects/fonemas-app/overview-simples.md",
+        "detailed": "/os/projects/fonemas-app/detalhes-execucao.md"
+      }
+    },
+    {
+      "id": "hierarquiadobrasil",
+      "name": "hierarquiadobrasil",
+      "shortDescription": "Mapas e dados simples para entender desigualdades no Brasil.",
+      "status": "Conceito",
+      "links": {
+        "simple": "/os/projects/hierarquiadobrasil/overview-simples.md",
+        "detailed": "/os/projects/hierarquiadobrasil/detalhes-execucao.md"
+      }
+    },
+    {
+      "id": "documentario",
+      "name": "Documentário",
+      "shortDescription": "Filme sobre o Instituto para captação via editais.",
+      "status": "Captação",
+      "links": {
+        "simple": "/os/projects/documentario/overview-simples.md",
+        "detailed": "/os/projects/documentario/detalhes-execucao.md"
+      }
+    },
+    {
+      "id": "filme-autoral",
+      "name": "Filme do Gabriel",
+      "shortDescription": "Filme pessoal do Gabriel para próximo inverno.",
+      "status": "Desenvolvimento",
+      "links": {
+        "simple": "/os/projects/filme-autoral/overview-simples.md",
+        "detailed": "/os/projects/filme-autoral/detalhes-execucao.md"
+      }
+    },
+    {
+      "id": "15-minutos-de-fama",
+      "name": "15 minutos de fama",
+      "shortDescription": "Canal YouTube documental contando histórias em 15 min.",
+      "status": "Conceito",
+      "links": {
+        "simple": "/os/projects/15-minutos-de-fama/overview-simples.md",
+        "detailed": "/os/projects/15-minutos-de-fama/detalhes-execucao.md"
+      }
+    },
+    {
+      "id": "covers-musicais",
+      "name": "Covers Musicais",
+      "shortDescription": "Projeto de covers de músicas que marcaram o mundo.",
+      "status": "Conceito",
+      "links": {
+        "simple": "/os/projects/covers-musicais/overview-simples.md",
+        "detailed": "/os/projects/covers-musicais/detalhes-execucao.md"
+      }
+    },
+    {
+      "id": "centro-poliesportivo",
+      "name": "Centro Poliesportivo",
+      "shortDescription": "Espaço para esporte, reabilitação e formação.",
+      "status": "Planejamento",
+      "links": {
+        "simple": "/os/projects/centro-poliesportivo/overview-simples.md",
+        "detailed": "/os/projects/centro-poliesportivo/detalhes-execucao.md"
+      }
+    },
+    {
+      "id": "cozinha-industrial",
+      "name": "Cozinha Industrial",
+      "shortDescription": "Produção de refeições, marmitas e apoio a eventos.",
+      "status": "Planejamento",
+      "links": {
+        "simple": "/os/projects/cozinha-industrial/overview-simples.md",
+        "detailed": "/os/projects/cozinha-industrial/detalhes-execucao.md"
+      }
+    },
+    {
+      "id": "creche-idosos",
+      "name": "Creche para Idosos",
+      "shortDescription": "Cuidado diurno para idosos com atividades.",
+      "status": "Conceito",
+      "links": {
+        "simple": "/os/projects/creche-idosos/overview-simples.md",
+        "detailed": "/os/projects/creche-idosos/detalhes-execucao.md"
+      }
+    },
+    {
+      "id": "lar-de-passagem",
+      "name": "Lar de Passagem",
+      "shortDescription": "Acolhimento temporário com plano de vida.",
+      "status": "Conceito",
+      "links": {
+        "simple": "/os/projects/lar-de-passagem/overview-simples.md",
+        "detailed": "/os/projects/lar-de-passagem/detalhes-execucao.md"
+      }
+    },
+    {
+      "id": "circuito-itinerante",
+      "name": "Circuito Itinerante",
+      "shortDescription": "Ônibus/combi para eventos culturais em cidades.",
+      "status": "Planejamento",
+      "links": {
+        "simple": "/os/projects/circuito-itinerante/overview-simples.md",
+        "detailed": "/os/projects/circuito-itinerante/detalhes-execucao.md"
+      }
+    }
+  ]
+}

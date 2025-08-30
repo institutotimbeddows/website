@@ -1,0 +1,48 @@
+{
+  "organization": {
+    "name": "Instituto Tim Beddows",
+    "shortName": "ITB",
+    "foundingYear": 2025,
+    "legalStatus": "Associação sem fins lucrativos",
+    "cnpj": "[a registrar]",
+    "mission": "Educação gratuita, simples e prática. Apps úteis e projetos culturais que ajudam a comunidade.",
+    "vision": "Chegar em mais gente com soluções simples e gratuitas.",
+    "values": [
+      { "name": "Simplicidade", "description": "Sem burocracia e sem floreio" },
+      { "name": "Transparência", "description": "Prestação de contas pública" },
+      { "name": "Gratuidade", "description": "Ninguém paga para aprender" },
+      { "name": "Autodidatismo", "description": "Cada um aprende no seu tempo" }
+    ],
+    "strategicAreas": [
+      "Cursos gratuitos",
+      "Apps educativos",
+      "Cultura e audiovisual"
+    ],
+    "targetGroups": [
+      "Comunidades locais",
+      "Jovens e adultos autodidatas",
+      "Músicos e educadores"
+    ],
+    "headquarters": {
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "address": "[a definir]",
+      "postalCode": "[a definir]",
+      "phone": "[a definir]",
+      "email": "contact@itb.ong"
+    },
+    "governance": {
+      "model": "Fundadores no controle",
+      "president": "Gabriel V. Santana",
+      "vicePresident": "Gustavo Ruas",
+      "elections": false
+    },
+    "transparency": {
+      "financialReportsPublic": true,
+      "annualReportsPublic": true,
+      "auditedFinancials": false,
+      "ethicsChannel": "[a definir]"
+    }
+  }
+}
